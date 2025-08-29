@@ -8,8 +8,8 @@ This repository demonstrates the application of **Deep Learning (DL) models** on
 
 ## 🔗 Project Links
 
-- 🔗 **Live Site (Render Deployment):** [Click Here](https://github.com/2200032267)
-- 📰 **LinkedIn Article:** [Click Here](https://www.linkedin.com/in/n-vighnesh-5b74aa24a/recent-activity/articles/)
+- 🔗 **Live Site (Render Deployment):** [Click Here](https://github.com/Naveen939258)
+- 📰 **LinkedIn Article:** [Click Here](https://www.linkedin.com/in/kakarla-naveen-2092411b3/)
 - 📹 **Video Demo:** [Click Here](https://drive.google.com/file/d/1nIeucDm8HlP3TSUbfGLy8z7Vgv99vPcx/view?usp=sharing)
 
 ---
@@ -91,12 +91,12 @@ Each experiment is designed to provide comprehensive insights into how deep lear
 
 
 ## 👤 Author
-
-**NEDULLA VIGHNESH**  
-- GitHub: [2200032267](https://github.com/2200032267)  
-- LinkedIn: [N VIGHNESH](https://www.linkedin.com/in/n-vighnesh-5b74aa24a)   
-- Email:vighneshnv2@gmail.com
+- **GitHub:** [click here](https://github.com/naveen939258)  
+- **LinkedIn:** [click here](https://www.linkedin.com/in/kakarla-naveen-2092411b3/)  
+- **Email:** 22000031998cseh@gmail.com
+  
 ---
+
 ## ⭐ Star This Repository
 
 If you find this project useful or interesting, please ⭐ star this repository to support and encourage further development!  
